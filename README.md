@@ -10,6 +10,6 @@ Ok, let me make it easy !!!
 A container is a bundle of Application, Application libraries required to run your application and the minimum system dependencies.
 
 
-[https://user-images.githubusercontent.com/43399466/217262726-7cabcb5b-074d-45cc-950e-84f7119e7162.png![image](https://github.com/Shailendra114/Everything-about-Container-and-Docker/assets/88799249/23447fcf-e8fb-479d-9ff9-2ca11f0e881b)
+![image](https://github.com/Shailendra114/Everything-about-Container-and-Docker/assets/88799249/23447fcf-e8fb-479d-9ff9-2ca11f0e881b)
 ] 
 
