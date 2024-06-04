@@ -34,4 +34,23 @@ Below is the screenshot of official ubuntu base image which you can use for your
 
 ![image](https://user-images.githubusercontent.com/43399466/217493284-85411ae0-b283-4475-9729-6b082e35fc7d.png)
 
+To provide a better picture of files and folders that containers base images have and files and folders that containers use from host operating system (not 100 percent accurate -> varies from base image to base image). Refer below.
+
+**Files and Folders in containers base images**
+
+    /bin: contains binary executable files, such as the ls, cp, and ps commands.
+
+    /sbin: contains system binary executable files, such as the init and shutdown commands.
+
+    /etc: contains configuration files for various system services.
+
+    /lib: contains library files that are used by the binary executables.
+
+    /usr: contains user-related files and utilities, such as applications, libraries, and documentation.
+
+    /var: contains variable data, such as log files, spool files, and temporary files.
+
+    /root: is the home directory of the root user.
+
+
 
