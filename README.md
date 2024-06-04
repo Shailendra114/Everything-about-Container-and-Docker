@@ -52,7 +52,7 @@ To provide a better picture of files and folders that containers base images hav
 
     /root: is the home directory of the root user.
 
-**Files and Folders that containers use from host operating system**
+#### **Files and Folders that containers use from host operating system**
 
     The host's file system: Docker containers can access the host file system using bind mounts, which allow the container to read and write files in the host file system.
 
