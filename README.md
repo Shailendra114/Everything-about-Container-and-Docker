@@ -63,5 +63,15 @@ To provide a better picture of files and folders that containers base images hav
     Namespaces: Docker containers use Linux namespaces to create isolated environments for the container's processes. Namespaces provide isolation for resources such as the file system, process ID, and network.
 
     Control groups (cgroups): Docker containers use cgroups to limit and control the amount of resources, such as CPU, memory, and I/O, that a container can access.
-    
+  
+  
+It's important to note that while a container uses resources from the host operating system, it is still isolated from the host and other containers, so changes to the container do not affect the host or other containers.
+
+Note: There are multiple ways to reduce your VM image size as well, but I am just talking about the default for easy comparision and understanding.
+
+so, in a nutshell, container base images are typically smaller compared to VM images because they are designed to be minimalist and only contain the necessary components for running a specific application or service. VMs, on the other hand, emulate an entire operating system, including all its libraries, utilities, and system files, resulting in a much larger size.
+
+I hope it is now very clear why containers are light weight in nature.
+
+
 
