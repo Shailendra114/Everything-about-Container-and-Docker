@@ -73,5 +73,11 @@ so, in a nutshell, container base images are typically smaller compared to VM im
 
 I hope it is now very clear why containers are light weight in nature.
 
+## Docker
 
+#### What is Docker ?
+
+Docker is a containerization platform that provides easy way to containerize your applications, which means, using Docker you can build container images, run the images to create containers and also push these containers to container regestries such as DockerHub, Quay.io and so on.
+
+In simple words, you can understand as containerization is a concept or technology and Docker Implements Containerization.
 
