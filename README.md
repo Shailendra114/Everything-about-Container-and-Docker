@@ -83,5 +83,8 @@ In simple words, you can understand as containerization is a concept or technolo
 
 ### Docker Architecture ?
 
+![image](https://user-images.githubusercontent.com/43399466/217507877-212d3a60-143a-4a1d-ab79-4bb615cb4622.png)
+
+
 
 
