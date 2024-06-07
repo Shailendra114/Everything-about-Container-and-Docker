@@ -87,6 +87,8 @@ In simple words, you can understand as containerization is a concept or technolo
 
 The above picture, clearly indicates that Docker Deamon is brain of Docker. If Docker Deamon is killed, stops working for some reasons, Docker is brain dead :p (sarcasm intended).
 
+## Docker LifeCycle
+
 
 
 
