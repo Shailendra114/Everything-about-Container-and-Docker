@@ -89,6 +89,20 @@ The above picture, clearly indicates that Docker Deamon is brain of Docker. If D
 
 ## Docker LifeCycle
 
+We can use the above Image as reference to understand the lifecycle of Docker.
+
+There are three important things,
+
+docker build -> builds docker images from Dockerfile
+
+
+docker run -> runs container from docker images
+
+
+docker push -> push the container image to public/private regestries to share the docker images.
+
+
+
 
 
 
