@@ -103,6 +103,8 @@ docker push -> push the container image to public/private regestries to share th
 
 ![image](https://user-images.githubusercontent.com/43399466/217511949-81f897b2-70ee-41d1-b229-38d0572c54c7.png)
 
+### Understanding the terminology (Inspired from Docker Docs)
+
 
 
 
