@@ -116,7 +116,7 @@ The Docker client (docker) is the primary way that many Docker users interact wi
 #### Docker Desktop
 
 
-
+Docker Desktop is an easy-to-install application for your Mac, Windows or Linux environment that enables you to build and share containerized applications and microservices. Docker Desktop includes the Docker daemon (dockerd), the Docker client (docker), Docker Compose, Docker Content Trust, Kubernetes, and Credential Helper. For more information, see Docker Desktop.
 
 
 
