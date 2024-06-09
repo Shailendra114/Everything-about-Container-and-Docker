@@ -105,6 +105,11 @@ docker push -> push the container image to public/private regestries to share th
 
 ### Understanding the terminology (Inspired from Docker Docs)
 
+#### Docker daemon
+
+
+
+
 
 
 
