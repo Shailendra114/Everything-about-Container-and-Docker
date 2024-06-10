@@ -130,6 +130,8 @@ When you use Docker, you are creating and using images, containers, networks, vo
 
 Dockerfile is a file where you provide the steps to build your Docker Image.
 
+#### Images
+
 
 
 
