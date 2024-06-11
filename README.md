@@ -138,6 +138,7 @@ You might create your own images or you might only use those created by others a
 
 ### INSTALL DOCKER
 
+A very detailed instructions to install Docker are provide in the below link
 
 
 
