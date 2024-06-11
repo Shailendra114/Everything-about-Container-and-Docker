@@ -142,7 +142,9 @@ A very detailed instructions to install Docker are provide in the below link
 
 https://docs.docker.com/get-docker/
 
+For Demo,
 
+You can create an Ubuntu EC2 Instance on AWS and run the below commands to install docker.
 
 
 
