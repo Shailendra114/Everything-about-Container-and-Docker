@@ -160,3 +160,7 @@ Always ensure the docker daemon is up and running.
 
 A easy way to verify your Docker installation is by running the below command
 
+
+docker run hello-world
+
+
