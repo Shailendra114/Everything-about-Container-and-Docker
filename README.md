@@ -154,5 +154,9 @@ sudo apt install docker.io -y
 
 ### Start Docker and Grant Access
 
+A very common mistake that many beginners do is, After they install docker using the sudo access, they miss the step to Start the Docker daemon and grant acess to the user they want to use to interact with docker and run docker commands.
 
+Always ensure the docker daemon is up and running.
+
+A easy way to verify your Docker installation is by running the below command
 
