@@ -174,6 +174,8 @@ See 'docker run --help'.
 This can mean two things,
 
 1.) Docker deamon is not running.
+
+
 2.) Your user does not have access to run docker commands.
 
 
