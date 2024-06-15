@@ -178,7 +178,7 @@ This can mean two things,
 
 2.) Your user does not have access to run docker commands.
 
-####Start Docker daemon
+#### Start Docker daemon
 
 
 
