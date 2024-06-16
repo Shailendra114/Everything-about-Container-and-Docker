@@ -181,4 +181,6 @@ This can mean two things,
 ### Start Docker daemon
 
 
+You use the below command to verify if the docker daemon is actually started and Active
+
 
