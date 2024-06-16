@@ -184,3 +184,4 @@ This can mean two things,
 You use the below command to verify if the docker daemon is actually started and Active
 
 
+sudo systemctl status docker
