@@ -189,5 +189,8 @@ sudo systemctl status docker
 
 If you notice that the docker daemon is not running, you can start the daemon using the below command
 
+sudo systemctl start docker
+
+
 
 
