@@ -185,3 +185,9 @@ You use the below command to verify if the docker daemon is actually started and
 
 
 sudo systemctl status docker
+
+
+If you notice that the docker daemon is not running, you can start the daemon using the below command
+
+
+
